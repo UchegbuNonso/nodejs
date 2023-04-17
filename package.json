@@ -1,0 +1,15 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "description": "Customers profile",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Sammy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
